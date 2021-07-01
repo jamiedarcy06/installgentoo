@@ -1,2 +1,3 @@
 # installgentoo
-Script which installs gentoo, X, and an assortment of suckless tools
+
+Installs gentoo, some network management, basic make.conf configuration, x11, and dwm, st, slstatus. 
