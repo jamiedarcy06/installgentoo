@@ -1,3 +1,3 @@
 # installgentoo
 
-Suckless tools and dotfiles 
+Suckless tools 
